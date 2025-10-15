@@ -1,4 +1,4 @@
-**Defects Reported - Wait for Production Version**
+**BETA VERSION - WAIT FOR PRODUCTION VERSION**
 
 BlackICE
 
