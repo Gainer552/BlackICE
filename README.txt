@@ -1,3 +1,5 @@
+**Defects Reported - Wait for Production Version**
+
 BlackICE
 
 BlackICE is a host hardening utility for Linux systems that locks down your network stack with ultra-hardened UFW configurations — while still allowing safe web browsing (HTTPS, DNS, NTP, DHCP).
